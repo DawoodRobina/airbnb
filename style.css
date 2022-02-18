@@ -1,0 +1,275 @@
+body{
+  overflow-x:hidden;
+}
+
+.navbar-brand {
+  margin: 0 0 0 60px;
+  height: 48px;
+  padding: 8px 10px;
+}
+.nav-item a
+{
+  color: white;
+}
+.nav-item a:hover
+{
+  color: white;
+}
+.navbar{
+  padding: .8rem;
+}
+.nav-link
+{
+  color: white;
+}
+.title {
+  height: 300%;
+}
+
+.header {
+  color: white;
+}
+
+.navbar-dark {
+  background-color: black;
+}
+
+.btn-group {
+  height: 60px;
+  margin: 0px 550px 0px 550px;
+  border-radius: 100px;
+}
+
+.buttongroup  {
+  background-color: black;
+}
+
+/* img-content */
+
+
+.img-content1
+{
+  background-image: url("https://a0.muscache.com/im/pictures/88960fb8-6ebb-48d2-ac44-4f5e08501435.jpg?im_w=320");
+  width:320px;
+  height: 370px;
+  border-radius: 15px;
+}
+
+.img-content2
+{
+  background-image: url("https://a0.muscache.com/im/pictures/835985b7-7b88-491d-ba3e-2d1245beb21b.jpg?im_w=320");
+  width:320px;
+  height: 370px;
+  border-radius: 15px;
+}
+
+.img-content3
+{
+  background-image: url("https://a0.muscache.com/im/pictures/758a8a39-4318-422f-b31b-df5218be7b0f.jpg?im_w=320");
+  width:320px;
+  height: 370px;
+  border-radius: 15px;
+}
+
+.img-content4
+{
+  background-image: url("https://a0.muscache.com/im/pictures/0538dab4-a0fc-4035-b6b2-40fa3532ee7b.jpg?im_w=320");
+  width:320px;
+  height: 370px;
+  border-radius: 15px;
+}
+.img-title1
+{
+  background-color: #DE3151;
+  margin-top: 60%;
+  height: 190px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;text-align: center;
+  color: white;
+}
+
+.img-title2
+{
+  background-color: #BD1E59;
+  margin-top: 60%;
+  height: 190px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;text-align: center;
+  color: white;
+}
+
+.img-title3
+{
+  background-color: #C13515;
+  margin-top: 60%;
+  height: 190px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;text-align: center;
+  color: white;
+}
+
+.img-title4
+{
+  background-color: #6C0D63;
+  margin-top: 60%;
+  height: 190px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;text-align: center;
+  color: white;
+}
+
+/* site-content */
+
+
+
+.site-content
+{
+  background-image: url("https://a0.muscache.com/im/pictures/fe7217ff-0b24-438d-880d-b94722c75bf5.jpg");
+  background-attachment: scroll;
+  background-size: cover;
+  position: relative;
+  width: 1500px;
+  height: 800px;
+margin-left: 30px;
+padding: 50px 50px;
+  border-radius: 15px;
+
+}
+.site-title
+{
+  color: white;
+  margin-top: 80%;
+  margin-bottom: 6%;
+  font-size: 50px;
+  font-weight: bold;
+
+}
+.site-btn
+{
+  margin-left: 45%;
+  margin-bottom: 50%;
+  background-color: white;
+}
+
+.container-fluid
+{
+  background-color: black;
+}
+
+/* exp-content */
+
+.exp-content1
+{
+  background-image: url("https://www.phillymag.com/wp-content/uploads/sites/3/2021/11/airbnb-camp-caitlin-900x600-1.jpg");
+  width: 700px;
+  height: 710px;
+  border-radius: 15px;
+background-size: cover;
+padding: 5px 5px;
+}
+.exp-title
+{
+  color: white;
+  margin-top: 10%;
+  margin-bottom: 6%;
+  margin-left: 11%;
+  font-size: 50px;
+}
+.exp-content2
+{
+  background-image: url("https://a0.muscache.com/im/pictures/49a25918-9b84-4d43-9d48-b45f926755bd.jpg?im_q=highq&im_w=720");
+  width: 700px;
+  height: 710px;
+  border-radius: 15px;
+background-size: cover;
+}
+.exp-btn
+{
+  margin-left: 10%;
+  margin-bottom: 50%;
+  background-color: white;
+  border-radius: 15px;
+}
+/* faq-content */
+
+.faq-content
+{
+  background-image: url("https://a0.muscache.com/im/pictures/fe7217ff-0b24-438d-880d-b94722c75bf5.jpg");
+  background-attachment: scroll;
+  background-size: cover;
+  width: 1800px;
+  height: 800px;
+  margin-top: 50px;
+}
+.faq-title
+{
+  color: white;
+  margin-top: 20%;
+  margin-bottom: 6%;
+  margin-left: 11%;
+
+  font-size: 80px;
+  font-weight: bold;
+}
+.faq-btn
+{
+  margin-top: 10%;
+    margin-left: 11%;
+    border-radius: 15px;
+}
+.row img {
+  height: 450px;
+  width: 330px;
+  margin: 5px 5px 0 0;
+  border-radius: 15px;
+}
+
+.insp {
+  margin: 0px 100px 0 100px;
+}
+
+/* Experience section */
+.exp {
+  margin: 0px 80px 0 80px;
+}
+.pic1 img
+{
+  height: 800px;
+  width: 700px;
+  border-radius: 12px;
+  padding-right: 10px;
+}
+.pic2 img
+{
+  height: 800px;
+  width: 700px;;
+  border-radius: 12px;
+
+}
+
+
+
+
+.end {
+  background-color: #EFEFEF;
+margin-top: 10%;
+  }
+
+  .row p{
+    margin-left: 80px;
+    margin-right: 78px;
+    font-size: 14px;
+    line-height: 20px;
+  }
+.a-footer
+{
+  color: black;
+}
+.foot
+{
+  margin-left: 70px;
+}
+.last
+{
+margin-right:  70px;
+}
